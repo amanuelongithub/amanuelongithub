@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello😃
 
-hello i'am amanuel from ethiopia, and i do developing softares for mobile or desck top application also web Development. I really enjoy learning more about programming languages like i do before, dart,java and c++ or javascript.
+   I am Ammanuel, from Ethiopia, I can develop software for mobile, desktop applications as well as web development. I enjoy learning more about programming languages, Dart, Java, C++ or JavaScript.
 
-I aslo enjoy realy about wireframing, ui , ux and design (as u seen my projects most of them are more user frindly).
+             I also work in Wireframing, UI, UX and othee designs (most of my projects are user friendly if you see them).
 
-you can chack my social media account like telegram => at https://t.me/amanuel_gulelat,  or twitter (i put it on left side links)
+You can check out my social media accounts like Telegram https://t.me/amanuel_guletat or twitter (I put links on the left side).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuelongithub)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanuelongithub)](https://github.com/anuraghazra/github-readme-stats)
