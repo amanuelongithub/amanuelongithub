@@ -1,7 +1,6 @@
 ### Hello😃
 
-   I am Amanuel, from Ethiopia
-   I can develop software for mobile, desktop applications
+   I am Amanuel, from Ethiopia,  I can develop software for mobile, desktop applications
    as well as web development.I enjoy learning more about programming languages, Dart, 
    Java, C++ or JavaScript.
 
