@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Amanuel</h1>
+<h1 align="center">Hi 👋, I'm Amanuel Gulelat</h1>
 <h3 align="center">   I am a software develper:- i can buid application for mobile, desktop and website. 😃 I enjoy learning more about programming languages like, Dart, Java, C++ and JavaScript. also work in Wireframing, UI, UX and othre designs (most of my projects are user friendly if you see them).
 </h3>
 
@@ -9,6 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amanuel_gulela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanuel_gulela" height="30" width="40" /></a>
+<a href="https://t.me/amanuel_gulelat" target="blank"><img align="center" src="https://img.icons8.com/color/256/telegram-app--v1.png" alt="amanuel_gulela" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
