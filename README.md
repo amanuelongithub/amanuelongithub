@@ -3,10 +3,12 @@
 <h3 align="center">   I am a Software Developer:- i can buid application for mobile, desktop and website. 😃 I enjoy learning more about programming languages like, Dart, Java, C++ and JavaScript. also work in Wireframing, UI, UX and othre designs (most of my projects are user friendly if you see them).
 </h3>
 
-[![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanuelongithub)](https://github.com/anuraghazra/github-readme-stats)
-
 <p>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanuelongithub&" alt="amanuelongithub" />
+   
+   [![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanuelongithub)](https://github.com/anuraghazra/github-readme-stats)
+
+   
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,5 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/amanuel_gulela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanuel_gulela" height="30" width="40" /></a>
 <a href="https://t.me/amanuel_gulelat" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" alt="amanuel_gulela" height="30" width="40" /></a>
+
 </p>
+
 
