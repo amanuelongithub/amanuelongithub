@@ -6,8 +6,8 @@
 <p>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanuelongithub&" alt="amanuelongithub" />
    
-   [![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanuelongithub)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuelongithub&show_icons=true&theme=transparent)
    
 </p>
 
