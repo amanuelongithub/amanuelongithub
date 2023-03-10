@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Amanuel Gulelat</h1>
+<h1 align="center">Hello 👋, I'm Amanuel Gulelat</h1>
 <h3 align="center">   I am a Software Developer:- i can buid application for mobile, desktop and website. 😃 I enjoy learning more about programming languages like, Dart, Java, C++ and JavaScript. also work in Wireframing, UI, UX and othre designs (most of my projects are user friendly if you see them).
 </h3>
 
