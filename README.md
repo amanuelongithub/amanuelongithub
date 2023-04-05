@@ -6,11 +6,6 @@
 <p>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanuelongithub&" alt="amanuelongithub" />
    
-  
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuelongithub&show_icons=true&theme=transparent)
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanuelongithub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
