@@ -1,6 +1,6 @@
 
 <h1 align="center">hi 👋, I'm Amanuel Gulelat</h1>
-<h3 align="center">   I am Developer:- i can build applications for mobile, desktop and website. 😃 I enjoy learning more about programming languages like, Dart, Java, C++ and C. Also, work in Wireframing, Graphics, UI, UX and other designs (most of my projects are user friendly if you see them).
+<h3 align="center">   I am Developer:- i can build applications for mobile, desktop and websites... 😃 I enjoy learning more about programming languages like, Dart, Java, C++ and C. Also, work in Wireframing, Graphics, UI, UX and other designs (most of my projects are user friendly if you see them).
 </h3>
 
 <p>
