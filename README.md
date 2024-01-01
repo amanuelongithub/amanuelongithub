@@ -1,6 +1,6 @@
 
-<h1 align="center">hi 👋, I'm Amanuel Gulelat</h1>
-<h3 align="center">   I am not developer iam problem solver
+<h1 align="center">hi 👋, hi i'm amanuel</h1>
+<h3 align="center">   problem solver
 </h3>
 
 <p>
