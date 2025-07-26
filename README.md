@@ -4,7 +4,7 @@
 ---
 
 💻 I build robust, scalable, and user-centric applications with a focus on performance and maintainability.  
-🌍 Based in Africa | 📫 Reach me at: **your.email@example.com**
+🌍 Based in Ethiopia | 📫 Reach me at: **gulilatamanuel@gmail.com**
 
 ---
 
@@ -49,19 +49,11 @@
 
 ---
 
-### 🌱 Currently Learning
-
-- Clean Architecture for Flutter
-- Docker for deployment
-- Advanced Django Rest API patterns
-
----
 
 ### 🤝 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
-- 📫 Email: your.email@example.com
-- 🌐 Portfolio: your-portfolio-site.com _(if you have one)_
+- 🔗 [LinkedIn](http://www.linkedin.com/in/amanuel-gulelat-279444198/)
+- 📫 Email: gulilatamanuel@gmail.com
 
 ---
 
